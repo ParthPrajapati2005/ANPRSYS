@@ -20,4 +20,4 @@ This project forms part of my A-Level Computer Science Project 2022. This projec
 Full Documentation of this project can be seen at https://bit.ly/ANPRProject 
 
 ## Screenshots
-![](ScreenShots/1,png)
+![](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)

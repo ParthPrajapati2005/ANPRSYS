@@ -24,3 +24,4 @@ Full Documentation of this project can be seen at https://bit.ly/ANPRProject
 ![](./ScreenShots/2.png)
 ![](./ScreenShots/3.png)
 ![](./ScreenShots/4.png)
+![](./ScreenShots/5.png)
